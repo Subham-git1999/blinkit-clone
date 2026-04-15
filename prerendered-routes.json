@@ -1,8 +1,0 @@
-{
-  "routes": {
-    "/blinkit-clone": {},
-    "/blinkit-clone/cart": {},
-    "/blinkit-clone/checkout": {},
-    "/blinkit-clone/checkout/success": {}
-  }
-}
